@@ -7,5 +7,4 @@
 * [💻Acceso a aplicativo](acceso-y-flujo-epik-financiera-euro/acceso-a-aplicativo.md)
 * [🌊Flujo normal de la aplicación \(Asesor\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor.md)
 * [👨‍✈️Flujo normal de la aplicación \(Administrador\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-administrador.md)
-* [1. Selección de funcionalidad inicial](acceso-y-flujo-epik-financiera-euro/1.-seleccion-de-funcionalidad-inicial.md)
 

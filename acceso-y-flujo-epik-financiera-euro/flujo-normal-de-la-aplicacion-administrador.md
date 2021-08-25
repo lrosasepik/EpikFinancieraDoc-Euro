@@ -32,5 +32,3 @@ Si el administrador desea **"Iniciar un proceso"**, puede ver el flujo normal de
 6. Si el proceso se realizo correctamente, el asesor en su parte derecha habrá cambiado el botón 🖱 naranja de _**"Enrolar"**_ a azul _**"Enrolado".**_
 {% endhint %}
 
-
-
