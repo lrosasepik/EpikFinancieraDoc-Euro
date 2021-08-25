@@ -12,7 +12,7 @@
 
 3. Ingrese sus credenciales de acceso \(Usuario y Contraseña\), luego seleccione el botón "Ingresar" para acceder a la aplicación.
 
-#### Si desea conocer el [Flujo normal de la aplicación](flujo-normal-de-la-aplicacion-asesor.md) puede acceder acá:
+#### Si desea conocer el [Flujo normal de la aplicación](flujo-normal-de-la-aplicacion-asesor/) puede acceder acá:
 
-{% page-ref page="flujo-normal-de-la-aplicacion-asesor.md" %}
+{% page-ref page="flujo-normal-de-la-aplicacion-asesor/" %}
 

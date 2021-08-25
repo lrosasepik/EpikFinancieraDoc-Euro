@@ -9,7 +9,7 @@ En este apartado se puede visualizar las dos funcionalidades, "el flujo de enrol
 ![](../.gitbook/assets/whatsapp-image-2021-08-24-at-11.35.35-am-2-.jpeg)
 
 {% hint style="danger" %}
-Si el administrador desea **"Iniciar un proceso"**, puede ver el flujo normal de la aplicación pulsando ["Aquí"](flujo-normal-de-la-aplicacion-asesor.md).
+Si el administrador desea **"Iniciar un proceso"**, puede ver el flujo normal de la aplicación pulsando ["Aquí"](flujo-normal-de-la-aplicacion-asesor/).
 {% endhint %}
 
 2. Seleccione el botón 🖱 de _**"Enrolar Asesores"**_.
