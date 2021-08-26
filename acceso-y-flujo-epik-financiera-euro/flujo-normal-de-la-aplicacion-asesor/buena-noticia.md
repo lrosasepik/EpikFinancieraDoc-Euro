@@ -1,2 +1,2 @@
-# Buena noticia
+# Buena noticia "monto aprobado/compra"
 

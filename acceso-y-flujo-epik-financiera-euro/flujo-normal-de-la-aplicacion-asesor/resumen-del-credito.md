@@ -1,2 +1,2 @@
-# Resumen del credito
+# Resumen del crédito
 
