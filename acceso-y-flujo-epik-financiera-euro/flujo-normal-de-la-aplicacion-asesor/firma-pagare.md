@@ -34,6 +34,8 @@
 
 
 
+
+
 38. Una vez que el cliente haga el proceso en su celular 📲 y confirme el pagare, vuelva a la pantalla del **Asesor** y seleccione el botón 🖱 de _**“Verificar”**_, para continuar con el proceso.
 
 
