@@ -14,7 +14,7 @@
 
 24. Una vez el cliente ha aceptado ☑ o confirmado la información enviada seleccione el botón 🖱 _**“Verificar”**_
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 {% page-ref page="seleccionar-cuenta-reembolso.md" %}
 
