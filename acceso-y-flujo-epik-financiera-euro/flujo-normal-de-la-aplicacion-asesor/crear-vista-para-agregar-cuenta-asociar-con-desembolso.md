@@ -6,5 +6,9 @@
 
 2. Seleccione el botón 🖱 _**"Continuar".**_
 
+![](../../.gitbook/assets/whatsapp-image-2021-08-26-at-10.49.36-am.jpeg)
 
+3. Seleccione el botón 🖱 _**"Saltar este paso".**_
+
+{% page-ref page="resumen-del-credito.md" %}
 
