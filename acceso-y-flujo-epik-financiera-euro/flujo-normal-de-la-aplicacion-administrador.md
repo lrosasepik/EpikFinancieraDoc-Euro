@@ -26,7 +26,7 @@ Si el administrador desea **"Iniciar un proceso"**, puede ver el flujo normal de
 
 5. Aparecerá su galería de fotos o el gestor de archivos, seleccione la foto o imagen del asesor para vincular su registro facial, luego seleccione el botón 🔘 _**"Listo"**_  en su celular". 
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="success" %}
 6. Si el proceso se realizo correctamente, el asesor en su parte derecha habrá cambiado el botón 🖱 naranja de _**"Enrolar"**_ a azul _**"Enrolado".**_

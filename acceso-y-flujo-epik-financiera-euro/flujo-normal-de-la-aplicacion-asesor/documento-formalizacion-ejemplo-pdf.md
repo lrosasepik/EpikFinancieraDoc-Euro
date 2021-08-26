@@ -11,5 +11,5 @@ En el siguiente enlace puede descargar el pdf de ejemplo del documento de formal
 
 {% file src="../../.gitbook/assets/flujo-completo-epik-euro.pdf" caption="Documento formalización PDF" %}
 
-Para regresar al flujo en la sección[ ``Formalización de documentos seleccione Aquí.](formalizacion-de-documentos.md)
+Para regresar al flujo en la sección[ Documentos enviados pulse aquí. ](documentos-enviados.md)
 

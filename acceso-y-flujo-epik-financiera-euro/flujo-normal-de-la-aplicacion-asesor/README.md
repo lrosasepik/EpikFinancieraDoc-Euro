@@ -24,14 +24,13 @@ En este apartado se puede visualizar el flujo normal del funcionamiento del apli
 
 1. [Buena noticia "monto aprobado/compra"](buena-noticia.md)
 2. [Todo listo para comprar](todo-listo-para-comprar.md)
-3. [Calcular cuotas](calcular-cuotas.md)
-4. [Mensaje enviado](mensaje-enviado.md)
-5. [Seleccionar cuenta reembolso](seleccionar-cuenta-reembolso.md)
-6. [Resumen del crédito](resumen-del-credito.md)
-7. [Formalización de documentos](formalizacion-de-documentos.md)
-8. [Documentos enviados](documentos-enviados.md)
-9. [Firma pagare](firma-pagare.md)
-10. [Crédito otorgado](credito-otorgado.md)\*\*\*\*
+3. [Mensaje enviado](mensaje-enviado.md)
+4. [Seleccionar cuenta reembolso](seleccionar-cuenta-reembolso.md)
+5. [Resumen del crédito](resumen-del-credito.md)
+6. [Formalización de documentos](formalizacion-de-documentos.md)
+7. [Documentos enviados](documentos-enviados.md)
+8. [Firma pagare](firma-pagare.md)
+9. [Crédito otorgado](credito-otorgado.md)\*\*\*\*
 
 ### **Diagramas de flujo:**
 
