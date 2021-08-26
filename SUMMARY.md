@@ -30,6 +30,6 @@
   * [Diagrama de flujo completo](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/diagrama-de-flujo-completo.md)
   * [Diagrama de flujo exitoso](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/diagrama-de-flujo-exitoso.md)
   * [Documento formalización ejemplo PDF](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/documento-formalizacion-ejemplo-pdf.md)
-  * [CREAR VISTA PARA AGREGAR CUENTA ASOCIAR CON DESEMBOLSO](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/crear-vista-para-agregar-cuenta-asociar-con-desembolso.md)
+  * [Ingrese datos de la nueva cuenta](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/crear-vista-para-agregar-cuenta-asociar-con-desembolso.md)
 * [👨‍✈️Flujo normal de la aplicación \(Administrador\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-administrador.md)
 
