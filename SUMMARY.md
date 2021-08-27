@@ -33,12 +33,9 @@
   * [Ingrese datos de la nueva cuenta](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/crear-vista-para-agregar-cuenta-asociar-con-desembolso.md)
 * [👨‍✈️Flujo normal de la aplicación \(Administrador\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-administrador.md)
 
-## 📙1. INTRODUCCION <a id="1.-introduccion-1"></a>
+## 📘2 . DESCRIPCION GENERAL
 
-* [1.1	Propósito](1.-introduccion-1/1.1-proposito.md)
-* [1.2	Alcance](1.-introduccion-1/1.2-alcance.md)
-* [1.3	Personal involucrado](1.-introduccion-1/1.3-personal-involucrado.md)
-* [1.4	Definiciones, acrónimos y abreviaturas](1.-introduccion-1/1.4-definiciones-acronimos-y-abreviaturas.md)
-* [1.5	Referencias](1.-introduccion-1/1.5-referencias.md)
-* [1.6	Resumen](1.-introduccion-1/1.6-resumen.md)
+* [2.2	Funcionalidad del producto](2-.-descripcion-general/2.2-funcionalidad-del-producto/README.md)
+  * [2.2.1 ROL ASESOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.1-rol-asesor.md)
+  * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador.md)
 

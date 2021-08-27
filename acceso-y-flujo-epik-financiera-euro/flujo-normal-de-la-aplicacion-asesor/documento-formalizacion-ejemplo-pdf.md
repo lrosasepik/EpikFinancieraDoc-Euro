@@ -9,7 +9,7 @@ Este documento contiene:
 
 En el siguiente enlace puede descargar el pdf de ejemplo del documento de formalización.
 
-{% file src="../../.gitbook/assets/flujo-completo-epik-euro.pdf" caption="Documento formalización PDF" %}
+{% file src="../../.gitbook/assets/documento-formalizacion-euro.pdf" caption="Documento formalización EURO ejemplo PDF" %}
 
 Para regresar al flujo en la sección[ Documentos enviados pulse aquí. ](documentos-enviados.md)
 
