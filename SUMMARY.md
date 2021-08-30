@@ -37,5 +37,10 @@
 
 * [2.2	Funcionalidad del producto](2-.-descripcion-general/2.2-funcionalidad-del-producto/README.md)
   * [2.2.1 ROL ASESOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.1-rol-asesor.md)
+  * [CU1-Ingresar](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar.md)
+  * [CU2-Consultar usuario](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu2-consultar-usuario.md)
+  * [CU3-Solicitar crédito](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu3-solicitar-credito.md)
+  * [CU4-Comprar](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu4-comprar.md)
   * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador.md)
+  * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu5-erolar-asesor.md)
 
