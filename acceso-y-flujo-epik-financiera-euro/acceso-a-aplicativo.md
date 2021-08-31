@@ -10,7 +10,19 @@
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-3. Ingrese sus credenciales de acceso \(Usuario y Contraseña\), luego seleccione el botón "Ingresar" para acceder a la aplicación.
+3. Ingrese sus credenciales de acceso \(Usuario y Contraseña\), luego seleccione el botón "Ingresar".
+
+![](../.gitbook/assets/whatsapp-image-2021-08-30-at-12.15.49-pm-1-.jpeg)
+
+4. Seleccione el botón 🖱 _**"continuar"**_.
+
+![](../.gitbook/assets/whatsapp-image-2021-08-30-at-12.15.49-pm.jpeg)
+
+5. Ubique su rostro en el ovalo y seleccione le botón 🖱 _**"Continuar"**_, para acceder al aplicativo.
+
+### Video de ingreso al aplicativo
+
+{% embed url="https://www.youtube.com/watch?v=cfPlopNAgu8" %}
 
 #### Si desea conocer el [Flujo normal de la aplicación](flujo-normal-de-la-aplicacion-asesor/) puede acceder acá:
 

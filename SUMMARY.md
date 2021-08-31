@@ -6,7 +6,7 @@
 
 * [💻Acceso a aplicativo](acceso-y-flujo-epik-financiera-euro/acceso-a-aplicativo.md)
 * [🌊Flujo normal de la aplicación \(Asesor\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/README.md)
-  * [Bienvenido al menú](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/bienvenido-al-menu.md)
+  * [Bienvenido al menú \(SOLO ADMIN BORRAR\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/bienvenido-al-menu.md)
   * [Consulta](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/consulta.md)
   * [Pre aprobado](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/pre-aprobado.md)
   * [Autorización de datos](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/autorizacion-de-datos.md)
@@ -37,10 +37,11 @@
 
 * [2.2	Funcionalidad del producto](2-.-descripcion-general/2.2-funcionalidad-del-producto/README.md)
   * [2.2.1 ROL ASESOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.1-rol-asesor.md)
-  * [CU1-Ingresar](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar.md)
+  * [CU1-Ingresar/Asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar.md)
   * [CU2-Consultar usuario](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu2-consultar-usuario.md)
   * [CU3-Solicitar crédito](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu3-solicitar-credito.md)
   * [CU4-Comprar](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu4-comprar.md)
   * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador.md)
+  * [CU1-Ingresar/Admin](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar-admin.md)
   * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu5-erolar-asesor.md)
 
