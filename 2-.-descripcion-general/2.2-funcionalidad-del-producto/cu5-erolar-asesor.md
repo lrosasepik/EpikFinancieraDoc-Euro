@@ -24,7 +24,8 @@
 
 | Actor | Sistema |
 | :--- | :--- |
-|  |  |
+| 1 . En la ventana de "Cargue la imagen desde la galería" el administrador selecciona el botón "cancelar". | 2. El sistema regresa a la ventana de "Enrolar Usuario". |
+| 1  .En la ventana "Seleccionar imagen", administrador selecciona el botón "Cancelar". | 2. El sistema regresa a la ventana de "Enrolar Usuario". |
 
 ### _**Información Adicional**_
 
