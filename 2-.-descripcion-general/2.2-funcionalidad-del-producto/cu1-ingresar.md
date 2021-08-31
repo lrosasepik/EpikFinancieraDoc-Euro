@@ -21,6 +21,8 @@
 | El asesor da click en el botón "Capturar". | El sistema muestra la ventana "Consulta". |
 |  | Termina el caso de uso. |
 
+### _**Flujo de secuencia alterno**_
+
 | Actor | Sistema |
 | :--- | :--- |
 | El asesor da click en el botón "Ingresar" | El sistema muestra un mensaje "Las credenciales no coinciden". |
