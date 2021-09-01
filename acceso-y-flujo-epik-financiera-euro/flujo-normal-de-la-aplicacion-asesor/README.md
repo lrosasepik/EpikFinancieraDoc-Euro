@@ -39,7 +39,10 @@ En este apartado se puede visualizar el flujo normal del funcionamiento del apli
 
 ### Video del flujo exitoso de la aplicación
 
-* 
+{% embed url="https://www.youtube.com/watch?v=41fvGePOlH4" %}
+
+
+
 ### **Documentos anexos**
 
 * \*\*\*\*[**Documento formalización ejemplo PDF**](documento-formalizacion-ejemplo-pdf.md)\*\*\*\*
