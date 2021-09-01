@@ -34,4 +34,5 @@ Si el administrador desea **"Iniciar un proceso"**, puede ver el flujo normal de
 
 ### Video del flujo exitoso de la aplicación Admin
 
-* 
+{% embed url="https://youtu.be/3qZOKnA2aJw" %}
+
