@@ -6,7 +6,7 @@
 
 * [💻Acceso a aplicativo](acceso-y-flujo-epik-financiera-euro/acceso-a-aplicativo.md)
 * [🌊Flujo normal de la aplicación \(Asesor\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/README.md)
-  * [Bienvenido al menú \(SOLO ADMIN BORRAR\)](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/bienvenido-al-menu.md)
+  * [Bienvenido al menú](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/bienvenido-al-menu.md)
   * [Consulta](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/consulta.md)
   * [Pre aprobado](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/pre-aprobado.md)
   * [Autorización de datos](acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/autorizacion-de-datos.md)

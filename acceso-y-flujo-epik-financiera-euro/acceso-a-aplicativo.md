@@ -10,6 +10,10 @@
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
+{% hint style="success" %}
+3. Si el tipo de usuario que ingresa es "Asesor", solicitara la validación facial que se describe a continuación: 
+{% endhint %}
+
 3. Ingrese sus credenciales de acceso \(Usuario y Contraseña\), luego seleccione el botón "Ingresar".
 
 ![](../.gitbook/assets/whatsapp-image-2021-08-30-at-12.15.49-pm-1-.jpeg)

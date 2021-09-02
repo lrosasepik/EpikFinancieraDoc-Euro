@@ -1,4 +1,4 @@
-# Bienvenido al menú \(SOLO ADMIN BORRAR\)
+# Bienvenido al menú
 
 1. Seleccionar el botón 🖱 **"Iniciar proceso".**
 

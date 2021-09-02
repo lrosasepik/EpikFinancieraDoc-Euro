@@ -22,7 +22,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 21.	Seleccione el botón 🖱 _"Confirmar cuotas"_.
 
