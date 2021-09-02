@@ -56,6 +56,7 @@
   * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu5-erolar-asesor.md)
 * [2.3 Características de los usuarios](2-.-descripcion-general/2.3-caracteristicas-de-los-usuarios.md)
 * [2.4	Restricciones](2-.-descripcion-general/2.4-restricciones.md)
+* [2.5 Políticas de riesgo](2-.-descripcion-general/2.5-politicas-de-riesgo.md)
 
 ## 3. REQUISITOS ESPECIFICOS📙
 
