@@ -44,6 +44,7 @@
 
 ## 📘2 . DESCRIPCION GENERAL
 
+* [2.1	Perspectiva del producto](2-.-descripcion-general/2.1-perspectiva-del-producto.md)
 * [2.2	Funcionalidad del producto](2-.-descripcion-general/2.2-funcionalidad-del-producto/README.md)
   * [2.2.1 ROL ASESOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.1-rol-asesor.md)
   * [CU1-Ingresar/Asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar.md)
@@ -53,4 +54,12 @@
   * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador.md)
   * [CU1-Ingresar/Admin](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu1-ingresar-admin.md)
   * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/cu5-erolar-asesor.md)
+* [2.3 Características de los usuarios](2-.-descripcion-general/2.3-caracteristicas-de-los-usuarios.md)
+* [2.4	Restricciones](2-.-descripcion-general/2.4-restricciones.md)
+
+## 3. REQUISITOS ESPECIFICOS📙
+
+* [3.1 Requerimientos Funcionales\(Proceso\)](3.-requisitos-especificos/3.1-requerimientos-funcionales-proceso.md)
+* [3.2 Requerimientos No Funcionales\(Proceso\)](3.-requisitos-especificos/3.2-requerimientos-no-funcionales-proceso.md)
+* [3. Metodologia](3.-requisitos-especificos/3.-metodologia.md)
 
