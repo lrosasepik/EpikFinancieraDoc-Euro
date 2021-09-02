@@ -9,7 +9,7 @@
 
 ### Diagrama de casos de uso
 
-![](../../.gitbook/assets/diagrama-de-caso-de-uso-epik-financiera-euro-_-asesor.png)
+![](../../../.gitbook/assets/diagrama-de-caso-de-uso-epik-financiera-euro-_-asesor.png)
 
 ### 🗂 Descripción de casos de uso
 
@@ -20,7 +20,7 @@
 | CU3 | Solicitar crédito | Permite realizar la solicitud de un crédito, autorización de tratamiento de datos, captura de imágenes y verificación de identidad. | [Aquí](cu3-solicitar-credito.md) |
 | CU4 | Comprar | Permite realizar la compra o utilizar el crédito aprobado, verificación de da tos del crédito, firma y aceptación de pagare, para desembolso de dinero a cliente. | [Aquí](cu4-comprar.md) |
 
-[Para regresar a funcionalidades del producto pulse Aquí. ](./)
+[Para regresar a funcionalidades del producto pulse Aquí. ](../)
 
-{% page-ref page="./" %}
+{% page-ref page="../" %}
 

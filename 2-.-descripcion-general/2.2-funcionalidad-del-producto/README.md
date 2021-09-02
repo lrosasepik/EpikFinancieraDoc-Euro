@@ -14,8 +14,8 @@ El aplicativo actualmente cuenta con funcionalidades para el usuario asesor y us
 
 ### Detalle de casos de Uso por Rol de usuario:
 
-* [2.2.1 ROL ASESOR](2.2.1-rol-asesor.md)
-* [2.2.2 ROL ADMINISTRADO](2.2.2-rol-administrador.md)
+* [2.2.1 ROL ASESOR](2.2.1-rol-asesor/)
+* [2.2.2 ROL ADMINISTRADO](2.2.2-rol-administrador/)
 
 {% page-ref page="../../" %}
 

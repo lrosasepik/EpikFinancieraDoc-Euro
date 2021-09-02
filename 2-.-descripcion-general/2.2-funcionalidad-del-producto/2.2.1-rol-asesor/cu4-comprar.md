@@ -65,5 +65,5 @@
 | Pre condición | El usuario debe contar con un monto disponible o un crédito aprobado. |
 | Post condición | El usuario completo la compra o utilizo su crédito exitosamente.  |
 
-{% page-ref page="cu5-erolar-asesor.md" %}
+{% page-ref page="../2.2.2-rol-administrador/cu5-erolar-asesor.md" %}
 

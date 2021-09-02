@@ -10,19 +10,19 @@
 
 ### Diagrama de casos de uso
 
-![](../../.gitbook/assets/diagrama-de-caso-de-uso-epik-financiera-euro-administrador.png)
+![](../../../.gitbook/assets/diagrama-de-caso-de-uso-epik-financiera-euro-administrador.png)
 
 ### 🗂 Descripción de casos de uso
 
 | Identificador de caso de uso | Nombre | Descripción | Detalle |
 | :--- | :--- | :--- | :--- |
-| CU1 | Ingresar | Permite ingresar al aplicativo | [Aquí](cu1-ingresar.md) |
-| CU2 | Consultar | Permite realizar la consulta del estado de un usuario en la base de datos del sistema | [Aquí](../../acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/consulta.md) |
-| CU3 | Solicitar crédito | Permite realizar la solicitud de un crédito, autorización de tratamiento de datos, captura de imágenes y verificación de identidad. | [Aquí](cu3-solicitar-credito.md) |
-| CU4 | Comprar | Permite realizar la compra o utilizar el crédito aprobado, verificación de da tos del crédito, firma y aceptación de pagare. | [Aquí](cu4-comprar.md) |
+| CU1 | Ingresar | Permite ingresar al aplicativo | [Aquí](../2.2.1-rol-asesor/cu1-ingresar.md) |
+| CU2 | Consultar | Permite realizar la consulta del estado de un usuario en la base de datos del sistema | [Aquí](../../../acceso-y-flujo-epik-financiera-euro/flujo-normal-de-la-aplicacion-asesor/consulta.md) |
+| CU3 | Solicitar crédito | Permite realizar la solicitud de un crédito, autorización de tratamiento de datos, captura de imágenes y verificación de identidad. | [Aquí](../2.2.1-rol-asesor/cu3-solicitar-credito.md) |
+| CU4 | Comprar | Permite realizar la compra o utilizar el crédito aprobado, verificación de da tos del crédito, firma y aceptación de pagare. | [Aquí](../2.2.1-rol-asesor/cu4-comprar.md) |
 | CU5 | Enrolar asesor | Permite asignar la imagen o identificación facial del asesor a su perfil, para la verificación del identidad al momento del ingreso al aplicativo.  | [Aquí](cu5-erolar-asesor.md) |
 
-[Para regresar a funcionalidades del producto pulse Aquí. ](./)
+[Para regresar a funcionalidades del producto pulse Aquí. ](../)
 
-{% page-ref page="./" %}
+{% page-ref page="../" %}
 

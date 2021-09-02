@@ -31,5 +31,5 @@
 | Pre condición | Usuario sin ingresar |
 | Post condición | Usuario ingresado en el sistema |
 
-{% page-ref page="cu2-consultar-usuario.md" %}
+{% page-ref page="../2.2.1-rol-asesor/cu2-consultar-usuario.md" %}
 
