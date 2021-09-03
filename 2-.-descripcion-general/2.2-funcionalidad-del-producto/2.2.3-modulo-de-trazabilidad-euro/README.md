@@ -1,6 +1,6 @@
-# 2.2.3 Modulo de trazabilidad EURO📋
+# 2.2.3 Modulo de trazabilidad 📋
 
-Este modulo tiene como fin mostrar la trazabilidad que se tiene del funcionamiento del proceso de validación para el aplicativo de Epik Financiera EURO. Permite consultar un usuario en la base de datos "BDFinanciera EURO", seleccionar el crédito a detallar y mostrara la trazabilidad asociada a este usuario.
+Este modulo tiene como fin mostrar la trazabilidad que se tiene del funcionamiento del proceso de validación para el aplicativo de Epik Financiera EURO. Permite consultar un usuario en la base de datos "BDFinanciera ", seleccionar el crédito a detallar y mostrara la trazabilidad asociada a este usuario.
 
 ### 1. Consulta:
 
