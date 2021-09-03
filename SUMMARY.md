@@ -54,10 +54,14 @@
   * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/README.md)
     * [CU1-Ingresar/Admin](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/cu1-ingresar-admin.md)
     * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/cu5-erolar-asesor.md)
-  * [2.2.3 Proceso de trazabilidad EURO](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.3-proceso-de-trazabilidad-euro.md)
+  * [2.2.3 Proceso de trazabilidad EURO📈](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.3-proceso-de-trazabilidad-euro.md)
+  * [2.2.4 Central de trazabilidad📉](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.4-central-de-trazabilidad/README.md)
+    * [Proceso 4. Validación de identidad.](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.4-central-de-trazabilidad/proceso-4.-validacion-de-identidad..md)
+    * [Proceso 5. Variables adicionales.](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.4-central-de-trazabilidad/proceso-5.-variables-adicionales..md)
+    * [Proceso 6. Políticas de riesgo.](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.4-central-de-trazabilidad/proceso-6.-politicas-de-riesgo..md)
+  * [2.5 Políticas de riesgo](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.5-politicas-de-riesgo.md)
 * [2.3 Características de los usuarios](2-.-descripcion-general/2.3-caracteristicas-de-los-usuarios.md)
 * [2.4	Restricciones](2-.-descripcion-general/2.4-restricciones.md)
-* [2.5 Políticas de riesgo](2-.-descripcion-general/2.5-politicas-de-riesgo.md)
 
 ## 3. REQUISITOS ESPECIFICOS📙
 
