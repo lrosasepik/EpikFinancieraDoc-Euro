@@ -15,22 +15,26 @@
       <td style="text-align:left">
         <p>Pol&#xED;ticas de comparaci&#xF3;n Imagen facial vs Imagen Documento Frontal</p>
         <p>Pol&#xED;ticas de ANI(Verificar en base de datos)</p>
-        <p>Pol&#xED;ticas cruzadas(Verificar en base de datos</p>
-        <p>Pol&#xED;ticas de identificaci&#xF3;n de rostro(Verificar en base de datos)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">REGISTRO DE INFORMACION TRANSACCIONAL</td>
-      <td style="text-align:left">Resultado de validaci&#xF3;n de identidad(Numero resultante de validaci&#xF3;n)</td>
+      <td style="text-align:left">
+        <p>Porcentaje de Similitud : Resultado</p>
+        <p>Porcentaje validaci&#xF3;n ANI: Resultado</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">COMPARACION REGLAS OFICIALES VS INFORMACION TRANSACCIONAL</td>
-      <td style="text-align:left">Resultado validaci&#xF3;n - Regla de validaci&#xF3;n &gt;30% - Validado,
-        No Validado</td>
+      <td style="text-align:left">Regla - Registro - Resultado &quot;Exitoso, No exitoso&quot;. C/U</td>
     </tr>
     <tr>
       <td style="text-align:left">PUNTOS DE CONTROL</td>
-      <td style="text-align:left">Validaci&#xF3;n Exitosa | Validaci&#xF3;n No exitosa</td>
+      <td style="text-align:left">
+        <p>Punto 1 :El cliente no debe estar rechazado por pol&#xED;ticas de DueDiligence.</p>
+        <p>Punto : Validaci&#xF3;n de identidad debe aplicar para usuarios nuevos
+          y usuarios de megabase</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">VISUALIZACION DE REGISTROS SOPORTES</td>
