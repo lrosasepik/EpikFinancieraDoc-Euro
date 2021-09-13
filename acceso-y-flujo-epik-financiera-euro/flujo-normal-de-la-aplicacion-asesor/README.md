@@ -39,7 +39,7 @@ En este apartado se puede visualizar el flujo normal del funcionamiento del apli
 
 ### Video del flujo exitoso de la aplicación
 
-{% embed url="https://www.youtube.com/watch?v=3\_t7JB-NwZk" %}
+{% embed url="https://www.youtube.com/watch?v=UdIL-ZVBqhQ" %}
 
 ### **Documentos anexos**
 
