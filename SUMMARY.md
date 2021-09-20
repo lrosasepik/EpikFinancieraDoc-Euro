@@ -54,8 +54,6 @@
   * [2.2.2 ROL ADMINISTRADOR](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/README.md)
     * [CU1-Ingresar/Admin](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/cu1-ingresar-admin.md)
     * [CU5-Erolar asesor](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.2.2-rol-administrador/cu5-erolar-asesor.md)
-  * [2.5 Políticas de riesgo](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.5-politicas-de-riesgo/README.md)
-    * [Untitled](2-.-descripcion-general/2.2-funcionalidad-del-producto/2.5-politicas-de-riesgo/untitled.md)
 * [2.3 Características de los usuarios](2-.-descripcion-general/2.3-caracteristicas-de-los-usuarios.md)
 * [2.4	Restricciones](2-.-descripcion-general/2.4-restricciones.md)
 
